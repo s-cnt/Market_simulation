@@ -1,0 +1,2 @@
+symbol,quantity,side,market_impact,slippage,fees,total_cost,impact_details
+BTCUSD,1.0,buy,3500.05,0.0007605061187081779,0.001,3500.051760506119,"{""permanent_impact"": 0.05, ""temporary_impact"": 0.05, ""total_impact_usd"": 3500.05, ""impact_percentage"": 10.0}"
